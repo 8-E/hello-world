@@ -28,6 +28,10 @@
     NSLog(@"This is very important function!");
     
     NSLog(@"Very important fix!");
+    
+    NSLog(@"#1 bugfix");
+    
+    NSLog(@"#2 bugfix");
 }
 
 @end
