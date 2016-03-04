@@ -24,4 +24,8 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void)importantFunction {
+    NSLog(@"This is very important function!");
+}
+
 @end
