@@ -26,6 +26,8 @@
 
 - (void)importantFunction {
     NSLog(@"This is very important function!");
+    
+    NSLog(@"Very important fix!");
 }
 
 @end
