@@ -41,6 +41,8 @@
 - (void)anotherNewFunction {
     NSLog(@"Another new function");
     NSLog(@"Some changes over here");
+    
+    NSLog(@"User2 make this changes!");
 }
 
 
