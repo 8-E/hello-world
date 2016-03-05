@@ -38,4 +38,8 @@
     NSLog(@"NEW Function");
 }
 
+- (void)anotherNewFunction {
+    NSLog(@"Another new function");
+}
+
 @end
