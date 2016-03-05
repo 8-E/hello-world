@@ -34,4 +34,8 @@
     NSLog(@"#2 bugfix");
 }
 
+- (void)anotherNewFunction {
+    NSLog(@"Another new function");
+}
+
 @end
