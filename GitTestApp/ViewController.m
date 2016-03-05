@@ -40,6 +40,8 @@
 
 - (void)anotherNewFunction {
     NSLog(@"Another new function");
+    NSLog(@"Some changes over here");
 }
+
 
 @end
